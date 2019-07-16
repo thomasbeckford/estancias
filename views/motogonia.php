@@ -14,7 +14,7 @@
     <div class="col-md-8 blog-main">
       
       <div class="displayflex">
-        <h1 class="pb-4 mb-4">Motogonia, Enduro en la Patagonia</h1>
+        <h1 class="pb-4 mb-4">Motogonia, Enduro en la Patagonia.</h1>
         <img class=" refugioimg refugio" width="200px" src="../assets/img/motogonia/logo1.jpg" alt="motogonia"> 
       </div><br>
 

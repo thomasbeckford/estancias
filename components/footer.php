@@ -233,21 +233,23 @@
 
       <div class="footer-center">
 
-        <div>
-          <i class="fab fa-facebook-f"></i>
-          <p>Experiencias en Patagonia</p>
+        <div class="hoverno">
+          <a href="https://www.facebook.com/experiencasenpatagonia/" target="_blank">
+           <i class="fab fa-facebook-f"></i>
+           <p>Experiencias en Patagonia</p>
+          </a>
         </div>
-
         <div>
           <i class="fab fa-whatsapp"></i>
           <p>+54 11 68630882</p>
         </div>
 
-        <div>
+      <div class="hoverno">
+        <a href="https://www.instagram.com/experienciasenpatagonia/" target="_blank">
           <i class="fab fa-instagram"></i>
           <p>Experiencias en Patagonia</p>
-        </div>
-
+        </a>
+      </div>
         <div>
           <i class="fa fa-envelope"></i>
           <p>experienciasenpatagonia@gmail.com</p>
@@ -258,11 +260,11 @@
 
         <p class="footer-company-about">
           <span class="spanishtext" style="font-weight: normal">
-            En este sitio vas a poder encontrar todo acerca de las estancias y destinos mas lindos de la patagonia, animate y viví una experiencia única.
+            En este sitio vas a poder encontrar todo acerca de las estancias y destinos más lindos de la Patagonia, animate y viví una experiencia única.
           </span>
 
           <span class="englishtext" style="font-weight: normal">
-            In this site you will be able to find everything about the most beautiful stays and destinations in Patagonia, go ahead and livea unique experience. 
+            In this site you will be able to find everything about the most beautiful stays and destinations in Patagonia, go ahead and live a unique experience. 
 
           </span>
           

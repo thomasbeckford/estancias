@@ -14,7 +14,7 @@
     <div class="col-sm-12 col-md-8 blog-main">
       <div class="displayflex">
         <div><h1>Refugio Cagliero</h1>
-        <h4 class="spanishtext">Refugio de Montaña frente al Glaciar Cagliero, El Chaltén</h4>
+        <h4 class="spanishtext">Refugio de Montaña frente al Glaciar Cagliero, El Chaltén.</h4>
         <h4 class="englishtext">Mountain refuge in front of the Cagliero Glacier, El Chaltén. </h4>
       </div>
         <img class=" refugioimg refugio" width="200px" src="../assets/img/refugiocagliero/logo.png" alt="refugiocagliero"> 

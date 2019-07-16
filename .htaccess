@@ -1,3 +1,6 @@
+Options -Indexes
+ErrorDocument 404 /Page-Not-Found.html
+ErrorDocument 403 /Page-Not-Found.html
 RewriteEngine On
 RewriteBase /
 RewriteCond %{REQUEST_FILENAME} !-d

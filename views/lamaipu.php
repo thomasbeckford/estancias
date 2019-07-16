@@ -15,8 +15,8 @@
       
       <div class="displayflex">
         <div><h1>Estancia La Maipú</h1><br/>
-          <h4 class="spanishtext">Historia y Naturaleza a orillas del Lago San Martín</h4>
-          <h4 class="englishtext">History and Nature on the shores of Lake San Martín </h4>
+          <h4 class="spanishtext">Historia y Naturaleza <br/> a orillas del Lago San Martín.</h4>
+          <h4 class="englishtext">History and Nature <br/> on the shores of Lake San Martín. </h4>
         </div>
         <img class="refugioimg refugio" width="190px" src="../assets/img/lamaipu/logo.png" alt="lamaipu"> 
       </div><br/>

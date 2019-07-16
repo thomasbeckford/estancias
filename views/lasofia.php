@@ -15,7 +15,7 @@
 
       <div class="displayflex">
         <div><h1 >Estancia La Sofía</h1>
-          <h4 class="spanishtext">Precordillera con vistas imponentes sobre los Lagos Argentinos y Viedma
+          <h4 class="spanishtext">Precordillera con vistas imponentes sobre los Lagos Argentino y Viedma.
 </h4><h4 class="englishtext">Andean foothills with views over the Argentino and Viedma Lakes. </h4>
 </div>
         <img class=" refugioimg refugio" width="200px" src="../assets/img/lasofia/logo.jpg" alt="lasofia"> 
@@ -24,7 +24,7 @@
           <div id="carouselExampleControls1" class="carousel slide" data-ride="carousel">
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img class="d-block w-100 img-responsive" src="../assets/img/lasofia/17.jpg" alt="First slide">
+          <img class="d-block w-100 img-responsive" src="../assets/img/lasofia/1.jpg" alt="First slide">
         </div>
         <div class="carousel-item">
           <img class="d-block w-100 img-responsive" src="../assets/img/lasofia/2.jpg" alt="Second slide">
@@ -69,7 +69,7 @@
           <img class="d-block w-100 img-responsive" src="../assets/img/lasofia/16.jpg" alt="Second slide">
         </div> 
         <div class="carousel-item">
-          <img class="d-block w-100 img-responsive" src="../assets/img/lasofia/1.jpg" alt="Second slide">
+          <img class="d-block w-100 img-responsive" src="../assets/img/lasofia/17.jpg" alt="Second slide">
         </div> 
       </div>
       <a class="carousel-control-prev" href="#carouselExampleControls1" role="button" data-slide="prev">

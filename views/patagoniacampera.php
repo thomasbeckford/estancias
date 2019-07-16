@@ -14,8 +14,8 @@
     <div class="col-sm-12 col-md-8 blog-main">
       <div class="displayflex">
         <div><h1 class="">Patagonia Campera</h1><br/>
-          <h4 class="spanishtext">Cabalgatas y Caminatas en Estancias <br/>y Puestos</h4>
-            <h4 class="englishtext">Horseride and trekknig in Puestos and Estancias. </h4>
+          <h4 class="spanishtext">Cabalgatas y Caminatas <br/> en Estancias y Puestos.</h4>
+            <h4 class="englishtext">Horseride and trekknig<br/> in Puestos and Estancias. </h4>
         </div>
 
         <img class=" refugioimg refugio" width="200px" src="../assets/img/patagoniacampera/logo.jpg" alt="patagoniacampera"> 
@@ -24,13 +24,13 @@
             <div id="carouselExampleControls1" class="carousel slide" data-ride="carousel">
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img class="d-block w-100 img-responsive" src="../assets/img/patagoniacampera/1.jpg" alt="First slide">
+          <img class="d-block w-100 img-responsive" src="../assets/img/patagoniacampera/4.jpg" alt="First slide">
         </div>
         <div class="carousel-item">
           <img class="d-block w-100 img-responsive" src="../assets/img/patagoniacampera/2.jpg" alt="Second slide">
         </div>
         <div class="carousel-item">
-          <img class="d-block w-100 img-responsive" src="../assets/img/patagoniacampera/4.jpg" alt="Second slide">
+          <img class="d-block w-100 img-responsive" src="../assets/img/patagoniacampera/1.jpg" alt="Second slide">
         </div>
         <div class="carousel-item">
           <img class="d-block w-100 img-responsive" src="../assets/img/patagoniacampera/5.jpg" alt="Second slide">
