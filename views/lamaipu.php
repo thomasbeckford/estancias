@@ -18,7 +18,7 @@
           <h4 class="spanishtext">Historia y Naturaleza <br/> a orillas del Lago San Martín.</h4>
           <h4 class="englishtext">History and Nature <br/> on the shores of Lake San Martín. </h4>
         </div>
-        <img class="refugioimg refugio" width="190px" src="../assets/img/lamaipu/logo.png" alt="lamaipu"> 
+        <img class="refugioimg refugio" width="20%" height="20%" src="../assets/img/lamaipu/logo.png" alt="lamaipu"> 
       </div><br/>
             <div id="carouselExampleControls1" class="carousel slide" data-ride="carousel">
       <div class="carousel-inner">

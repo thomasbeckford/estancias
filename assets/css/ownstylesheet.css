@@ -11,7 +11,15 @@ body {font-family: Arial;margin: 0; background-color: #f8f9fa }
 
 .bd-placeholder-img {font-size: 1.125rem;text-anchor: middle;-webkit-user-select: none;-moz-user-select: none;-ms-user-select: none;user-select: none;}
 
+.navbar-toggler{
+  width: 100%;
+}
 
+
+
+a.nav-link{
+  text-align: center
+}
 
 .backgroundlogo{
  width: 200px;
@@ -20,6 +28,15 @@ body {font-family: Arial;margin: 0; background-color: #f8f9fa }
 @media screen and (max-width: 800px) {
 .carrouselMobile{
   display: none;
+}
+
+.p-4 img{
+  width: 100%;
+  text-align: center
+}
+
+a#lamaipu.nav-link{
+  margin-top: 12px;
 }
 .navbar-toggler{
    padding: 0px 140px 0px 140px;

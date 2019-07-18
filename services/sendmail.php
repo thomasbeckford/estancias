@@ -33,8 +33,10 @@ $mail->AltBody = 'This is a plain-text message body';
 
 if (!$mail->send()) {
     echo "Mailer Error: " . $mail->ErrorInfo;
+    echo "<script>console.log({$mail->ErrorInfo})</script>";
 } else {
     echo "Message sent!";
+    echo "<script>console.log('Mail sent')</script>";
 }
 
 function save_mail($mail)

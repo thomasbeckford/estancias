@@ -13,10 +13,10 @@
     <div class="col-md-8 blog-main">
       <div class="displayflex">
         <div><h1 >Glaciar Sur</h1><br/>
-          <h4 class="spanishtext">Para visitar el Parque Nacional Los Glaciares <br>de una manera distinta y exclusiva.</h4>
+          <h5 class="spanishtext">Para visitar el Parque Nacional Los Glaciares <br>de una manera distinta y exclusiva.</h5>
 <h4 class="englishtext">Glacier National Park as few know.</h4>
 </div>
-        <img class="refugioimg refugio" src="../assets/img/glaciarsur/logo.png" alt="glaciarsur"> 
+        <img width="40%" height="50%" class="refugioimg refugio" src="../assets/img/glaciarsur/logo.png" alt="glaciarsur"> 
       </div><br/>
 
           <div id="carouselExampleControls1" class="carousel slide" data-ride="carousel1">
