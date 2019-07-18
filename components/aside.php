@@ -34,7 +34,7 @@
   </div>
 </aside>
 
-
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
 <script>
   
 
@@ -44,6 +44,8 @@
     if(e.target.emailen.value){ var email = e.target.emailen.value;}
     
     var message = e.target.message.value;
+
+    console.log("eeeeeeeee")
     
     if(email && message){
       jQuery.ajax({
@@ -52,17 +54,22 @@
       dataType: 'json',
       data: {email: email, message: message},
 
-      success: function (obj, textstatus) {
-                    if( !('error' in obj) ) {
-                        console.log("OK")
-                    }
-                    else {
-                        console.log("ERROR");
-                    }
-              },
-      error: function(err){
-        console.log(err)
-      }
+        error: function(data){
+          if( data.statusText == "OK" ) {
+            if(window.localStorage.getItem("lang") == "eng"){
+              swal("Email sent!"); 
+
+            } else {
+              swal("Email enviado!");
+            }
+            e.target.emailsp.value = ""
+            e.target.emailen.value = ""
+            e.target.message.value = ""
+            
+          } else {
+            console.log("Success but error")
+          }
+        }
 });
   } else {
     console.log("Insert email and message")
