@@ -38,23 +38,16 @@
         <div class="carousel-item">
           <img class="d-block w-100 img-responsive" src="../assets/img/patagoniacampera/6.jpg" alt="Second slide">
         </div>
-        <div class="carousel-item">
-          <img class="d-block w-100 img-responsive" src="../assets/img/patagoniacampera/7.jpg" alt="Second slide">
-        </div> 
+
         <div class="carousel-item">
           <img class="d-block w-100 img-responsive" src="../assets/img/patagoniacampera/8.jpg" alt="Second slide">
         </div> 
-        <div class="carousel-item">
-          <img class="d-block w-100 img-responsive" src="../assets/img/patagoniacampera/9.jpg" alt="Second slide">
-        </div> 
+
         <div class="carousel-item">
           <img class="d-block w-100 img-responsive" src="../assets/img/patagoniacampera/10.jpg" alt="Second slide">
         </div> 
         <div class="carousel-item">
           <img class="d-block w-100 img-responsive" src="../assets/img/patagoniacampera/11.jpg" alt="Second slide">
-        </div> 
-        <div class="carousel-item">
-          <img class="d-block w-100 img-responsive" src="../assets/img/patagoniacampera/12.jpg" alt="Second slide">
         </div> 
         <div class="carousel-item">
           <img class="d-block w-100 img-responsive" src="../assets/img/patagoniacampera/13.jpg" alt="Second slide">
