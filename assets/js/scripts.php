@@ -14,6 +14,10 @@
 
  $(document).ready(function(){
 
+if(window.localStorage.getItem("lang") === null){
+  window.localStorage.setItem('lang', 'spa');
+} 
+
 var url = window.location.href.split('/')
 var location = url[url.length-1]
 $('a[href$="' + location + '"]').addClass('active')
@@ -63,4 +67,5 @@ let lang = window.localStorage.getItem('lang');
   });
 
 });
+
 </script>
