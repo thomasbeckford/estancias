@@ -27,7 +27,7 @@ $mail->Password = "patagonia123";
 } else {
 
 $mail->Host = 'ca8.toservers.com';
-$mail->Port = 25;
+$mail->Port = 26;
 $mail->SMTPSecure = 'none';
 $mail->Username = "nosotros@experienciasenpatagonia.com";
 $mail->Password = "patagonia123";

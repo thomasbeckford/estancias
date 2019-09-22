@@ -44,8 +44,9 @@
     if(e.target.emailen.value){ var email = e.target.emailen.value;}
     
     var message = e.target.message.value;
-
-    console.log("eeeeeeeee")
+    
+    console.log(email);
+    console.log(message);
     
     if(email && message){
       jQuery.ajax({
