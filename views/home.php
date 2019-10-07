@@ -27,6 +27,7 @@
         en medio de la estepa, refugios pegados a Glaciares…<br/><br/>
         Cabalgatas únicas, caminatas a lagos escondidos dentro de los Parques Nacionales…<br/><br/>
         Fogones y conversaciones con los auténticos paisanos...</p>
+        <p>DNT EVT LEGAJO N* 9899</p>
       </div>
     </div>
       <div class="englishtext animated fadeIn">
@@ -40,6 +41,7 @@
              Patagonia.<br><br>Estancias in hidden places, lost in the mountain range, unknown lakes, posts in the middle of the steppe, shelters near Glaciers ...<br><br>
              Horseback riding, trekking to hidden lakes inside the National Parks ...
              <br><br>Stoves and conversations with real gauchos…</p>
+             <p>DNT EVT LEGAJO N* 9899</p>
       </div>
     </div>
   </div>
