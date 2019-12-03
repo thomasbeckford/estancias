@@ -5,6 +5,9 @@ switch ($request_uri[0]) {
     case '/':
         require './views/home.php';
         break;
+    case '/lajosefina':
+        require './views/lajosefina.php';
+        break;
     case '/lamaipu':
         require './views/lamaipu.php';
         break;

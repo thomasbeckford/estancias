@@ -59,6 +59,9 @@
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="nav navbar-nav m-auto" id=myNav>
       <li class="nav-item">
+        <a class="nav-link" href="/lajosefina">La Josefina</a>
+      </li>      
+      <li class="nav-item">
         <a class="nav-link" id="lamaipu" href="/lamaipu"> Ea. La Maipu</a>
       </li>
       <li class="nav-item">
@@ -75,7 +78,7 @@
       </li>
       <li class="nav-item">
         <a class="nav-link" href="/motogonia">Motogonia</a>
-      </li>      
+      </li>  
     </ul>
   </div>
 </nav>
